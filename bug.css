@@ -1,0 +1,1 @@
+The CSS property `filter: blur(5px);` is applied to an element, but the blur effect is not visible.  The element's dimensions are set to 0px or auto, and the blur is not affecting any child elements. 
